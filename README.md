@@ -73,3 +73,6 @@ python manage.py runserver
 ### 7. Open in browser
 
 http://127.0.0.1:8000/
+
+### Watch project walkthrough here:
+[LinkedIn Demo Video](https://www.linkedin.com/feed/update/urn:li:activity:7427412016912420865/)
